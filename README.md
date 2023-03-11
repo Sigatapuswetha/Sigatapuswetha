@@ -3,18 +3,16 @@
 
 
 <!--intRO name  -->
-<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/rachakonda-siva-sai-abhishek-439045208/" target="_blank">RACHAKONDA SIVA SAI ABHISHEK </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px"></h1><img width="38%" align="right" src="code.gif" >
+<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/rachakonda-siva-sai-abhishek-439045208/" target="_blank">SIGATAPU SWETHA SAI RANI</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px"></h1><img width="38%" align="right" src="code.gif" >
 
-A Small Introduction of  Myself, I am <b>RACHAKONDA SIVA SAI ABHISHEK</b> pursuing <br>⚡⚡ <b>ARTIFICIAL INTELLIGENCE AND DATA SCIENCE</b> from VIGNAN'S INSTITUTE OF INFORMATION TECHNOLOGY, Currently in my Third-Year of B.Tech. As of now, I am focused on <b>web development, Artifical Intelligence, Data Science and Data Structures </b>. ⚡⚡
+A Small Introduction of  Myself, I am <b>SIGATAPU SWETHA SAI RANI</b> pursuing <br>⚡⚡ <b>INFORMATION TECHNOLOGY</b> from VIGNAN'S INSTITUTE OF INFORMATION TECHNOLOGY, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>web development, Cyber Security and Data Structures </b>. ⚡⚡
 - 👀 I’m interested in ... Problem solving , Analysing the data and exploring new technologies <br>
-- 💞️ I’m looking to collaborate on challenging machine learning projects 🙃<br>
-- 📫 How to reach me sivasai7507@gmail.com
-- A good programmer is someone who always looks both ways before crossing a one-way street. I mean both developer and as client 😂😁😁
+- 💞️ I’m looking to collaborate on challenging Web based projects 🙃<br>
+- 📫 How to reach me sigatapuswetha0711@gmail.com
 
-<h3 align="center">|-A Passionate Django-Web Developer-|-Artifical Intelligence enthusiast-| </h3>
+<h3 align="center">|-A Passionate Web Developer-|-Cybersecurity enthusiast-| </h3>
 
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=madhavreddy509&label=Profile%20views&color=6805D3&style=flat" alt="RSSAbhishek" /> </p></h3>
-   <div align="center">
+
 
 <h1>Technical Skills 🛠</h1>
    
@@ -64,22 +62,22 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
 <div align="center">
 
 
-<a  href="https://www.linkedin.com/in/rachakonda-siva-sai-abhishek-439045208/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<!-- <a href="https://www.instagram.com/ab_hishek0711/" target="_blank"><img src="https://static.businessworld.in/article/article_extra_large_image/1563875679_nwjMJ0_instagram_logo_470.jpg"/></a> -->
+<a  href="https://www.linkedin.com/in/swetha-sigatapu-a1575b25b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<!-- <a href="https://www.instagram.com/s4_swetha/" target="_blank"><img src="https://static.businessworld.in/article/article_extra_large_image/1563875679_nwjMJ0_instagram_logo_470.jpg"/></a> -->
 <a href="sivasai7507@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 
-[![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=RachakondaSivaSaiAbhishek&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sigatapuswetha&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Sigatapuswetha/github-readme-stats)
 </div>
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=RachakondaSivaSaiAbhishek&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="RachakondaSivaSaiAbhishek" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sigatapuswetha&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sigatapuswetha" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RachakondaSivaSaiAbhishek&theme=dark" alt="RachakondaSivaSaiAbhishek" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sigatapuswetha&theme=dark" alt="RachakondaSivaSaiAbhishek" /></p>
   </div>
 
 
