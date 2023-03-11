@@ -3,7 +3,7 @@
 
 
 <!--intRO name  -->
-<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/rachakonda-siva-sai-abhishek-439045208/" target="_blank">SIGATAPU SWETHA SAI RANI</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px"></h1><img width="38%" align="right" src="code.gif" >
+<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/swetha-sigatapu-a1575b25b/" target="_blank">SIGATAPU SWETHA SAI RANI</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px"></h1><img width="38%" align="right" src="code.gif" >
 
 A Small Introduction of  Myself, I am <b>SIGATAPU SWETHA SAI RANI</b> pursuing <br>⚡⚡ <b>INFORMATION TECHNOLOGY</b> from VIGNAN'S INSTITUTE OF INFORMATION TECHNOLOGY, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>web development, Cyber Security and Data Structures </b>. ⚡⚡
 - 👀 I’m interested in ... Problem solving , Analysing the data and exploring new technologies <br>
@@ -16,8 +16,8 @@ A Small Introduction of  Myself, I am <b>SIGATAPU SWETHA SAI RANI</b> pursuing <
 
 <h1>Technical Skills 🛠</h1>
    
-I have learned web-development and having knowledge of HTML,CSS & Javascript, Jquery. I have Worked on Projects related to Artifical Intelligence and Data Science,also. Tech: Artifical Intelligence,, Deep learning, Google cloud.
- Known Languages: Python, C, C++, Html, JavaScript, and CSS.
+I have learned web-development and having knowledge of HTML,CSS & Javascript, Jquery. I have Worked on Projects related to Web technologies 
+ Known Languages: Python, C, C++, Html, JavaScript,java and CSS.
 
 <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
@@ -49,7 +49,7 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
 
 
 <h1 align="center">Projects</h1>
-   <a href="https://github.com/RachakondaSivaSaiAbhishek/RachakondaSivaSaiAbhishek">MY projects</a>
+   <a href="https://github.com/Sigatapuswetha/">MY projects</a>
 
 
 
@@ -67,7 +67,7 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
 <a href="sivasai7507@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 
-[![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sigatapuswetha&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Sigatapuswetha/github-readme-stats)
+[![Sigatapu Swetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sigatapuswetha&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Sigatapuswetha/github-readme-stats)
 </div>
 
 <table>
